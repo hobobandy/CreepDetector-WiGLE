@@ -1,6 +1,10 @@
 # CreepDetector-WiGLE
 WiGLE CSV compatible [CreepDetector](https://github.com/skickar/CreepDetector) remake.
 
+## Limitations
+
+- WiGLE is meant to save Wi-Fi networks (access points), not (un)associated devices. Therefore, this script is far from a complete solution.
+
 ## Requirements
 
 ### Python Packages
